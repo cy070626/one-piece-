@@ -1,0 +1,9 @@
+伟大航路网页上传版
+
+上传到Cloudflare Pages的Direct Upload入口。ZIP根目录包含index.html，无需构建命令，无需Python或Node。也可解压后上传整个文件夹。
+
+全部战斗在浏览器运行；玩家对玩家为同机同屏，不支持跨电脑在线联机。音乐、配音、回放保存在各自浏览器，不会上传。上传版以网站链接分享，未内置离线大ZIP下载。
+
+此包尚未实际上传或线上验收。完整双层BO3晋级由自动测试覆盖；本轮浏览器抽查团队CPU对CPU开战、暂停及返回，未手动打完整场。
+
+Cloudflare官方说明：https://developers.cloudflare.com/pages/get-started/direct-upload/

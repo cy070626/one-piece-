@@ -1,0 +1,80 @@
+{
+  "author": "Kenney",
+  "license": "CC0",
+  "source": "https://kenney.nl/assets/impact-sounds",
+  "download": "https://kenney.nl/media/pages/assets/impact-sounds/87b4ddecda-1677589768/kenney_impact-sounds.zip",
+  "officialOnePieceAudio": false,
+  "clips": [
+    {
+      "file": "impactPunch_medium_000.ogg",
+      "sha256": "486988aa2d6440ffc4c62a0e8ccf3c23673ba84424bd4723378d451b7255eb5c"
+    },
+    {
+      "file": "impactPunch_medium_001.ogg",
+      "sha256": "e71d23abcc3f10d9d6bc9615b2a431fff70b12333a5fcdd9964457564ace4349"
+    },
+    {
+      "file": "impactPunch_heavy_000.ogg",
+      "sha256": "b33a8f14068aec24ec69ba85e5e87fdc41228975f6a1a3e44a6e7d6fc3d9f8d8"
+    },
+    {
+      "file": "impactPunch_heavy_001.ogg",
+      "sha256": "f92f5cb6ba4ff2766497292ffd90865654317eeca976f5652e0708dbdcdc0dd9"
+    },
+    {
+      "file": "impactMetal_light_000.ogg",
+      "sha256": "33b5e6e37c6e9d54e07bf5a89b12c76e879f40c1ea83cdd82714df1d6f9fec6d"
+    },
+    {
+      "file": "impactMetal_light_001.ogg",
+      "sha256": "fba69c467ddd85da7b1d82e259f936b876d9ba6a3d6f1b24bdd10468e46bfe08"
+    },
+    {
+      "file": "impactMetal_heavy_000.ogg",
+      "sha256": "e07045693e4a2b3d165c424e3dab4c781d9ff8880a386880ac89a51315d7f831"
+    },
+    {
+      "file": "impactGlass_light_000.ogg",
+      "sha256": "d750cf88097d0c3e69920e6e14496e1444e1a9da01aa4cca8f5ec8cb44c57b4f"
+    },
+    {
+      "file": "impactGlass_light_001.ogg",
+      "sha256": "05e513fbd42829060eb37855f8c3866722ec5c39a8937c9bfde518cc609effa2"
+    },
+    {
+      "file": "impactSoft_heavy_000.ogg",
+      "sha256": "49e7ca88743fca974bb8676ea138b751cfd8f9033b5e7af8736c2a215d6edbc1"
+    }
+  ],
+  "additionalPacks": [
+    {
+      "author": "Kenney",
+      "license": "CC0",
+      "source": "https://kenney.nl/assets/rpg-audio",
+      "files": [
+        "knifeSlice.ogg",
+        "knifeSlice2.ogg",
+        "drawKnife1.ogg",
+        "cloth1.ogg"
+      ]
+    },
+    {
+      "author": "AntumDeluge",
+      "license": "CC0",
+      "source": "https://opengameart.org/content/fire-crackling",
+      "files": [
+        "fire-crackle.ogg"
+      ],
+      "use": "candidate audition only"
+    },
+    {
+      "author": "LEGIT Audio",
+      "license": "CC0",
+      "source": "https://opengameart.org/content/fire-staff-sound-effects",
+      "files": [
+        "fire-staff.mp3"
+      ],
+      "use": "candidate audition only"
+    }
+  ]
+}
